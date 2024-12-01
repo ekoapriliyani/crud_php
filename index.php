@@ -17,7 +17,7 @@ $platform = query("SELECT * FROM platform");
 
 <body>
     <div class="container">
-        <h1>Eduskill by Kelompok 2</h1>
+        <h1>Eduskill by Kelompok 1</h1>
         <a href="tambah.php" class="btn btn-primary">Tambah (+)</a>
         <table class="table">
             <tr>
